@@ -104,4 +104,4 @@ Kode pada repositori ini dirilis di bawah lisensi MIT — lihat [LICENSE](LICENS
 
 ## Penulis
 
-[Nama Lengkap] — [NIM] — [Program Studi]
+Faisal Akbar — 187241107 — Sistem Informasi
